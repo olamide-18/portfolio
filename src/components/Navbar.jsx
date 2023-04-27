@@ -24,7 +24,7 @@ const Navbar = () => {
 
   return (
     <div className="w-full bg-[#282c33] flex justify-between items-center fixed max-w-[1024px] max-md:max-w-[92%] py-8">
-      <div className="font-bold text-white max-sm:text-sm">{logo} CERMUEL</div>
+      <div className="font-bold text-white max-sm:text-sm">{logo} Olamide</div>
       <div
         className="sm:hidden w-8 h-8 rounded-full bg-[grey] flex items-center justify-center animate-spin"
         ref={logoRef}
