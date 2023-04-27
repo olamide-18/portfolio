@@ -25,7 +25,7 @@ const Works = () => {
         image={Netflix}
         title="Netflix"
         text={netflix}
-        url="https://expo.dev/@cermuel/netflix?serviceType=classic&distribution=expo-go"
+        url="#"
       />
       <ProjectCard
         reverse={true}
